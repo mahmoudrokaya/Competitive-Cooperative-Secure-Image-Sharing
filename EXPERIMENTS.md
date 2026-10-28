@@ -188,7 +188,7 @@ Manuscript link: <section/table/figure>
 
 ## 7. Recommended reproduction sequence
 
-1. Clone or download the **specific tagged release** associated with the DOI.
+1. Clone or download the **v1.0.0** associated with the DOI . 
 2. Confirm all required experiment files are included in that release, not only in non-default branches.
 3. Validate dataset provenance, file hashes, and license permissions.
 4. Create a Python environment using versions verified from the original execution environment.
@@ -203,7 +203,7 @@ The root `requirements.txt` is provisional until its contents are verified again
 
 ## 8. Release-readiness checks
 
-Before creating the Zenodo DOI release:
+Before creating the Zenodo DOI 10.5281/zenodo.23745120 release:
 
 - [ ] Verify the complete experiment inventory, including the purpose of **F** and local naming of **A/J**.
 - [ ] Consolidate release-relevant materials onto the tagged commit.
