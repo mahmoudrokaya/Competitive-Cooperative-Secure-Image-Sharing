@@ -2,7 +2,7 @@
 
 **Project:** Competitive–Cooperative Organizational Intelligence for Adaptive Secure Image Sharing over Heterogeneous Multipath Networks  
 **Repository:** `Competitive-Cooperative-Secure-Image-Sharing`  
-**Release:** Intended for the first archived research release (`v1.0.0`)
+**Competitive-Cooperative-Secure-Image-Sharing v1.0.0** Intended for the first archived research release (`v1.0.0`)
 
 ## 1. Scope and status
 
