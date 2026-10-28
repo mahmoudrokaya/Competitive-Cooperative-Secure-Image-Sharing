@@ -1,0 +1,29 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The original research documentation, figures, tables, and experimental data
+in this repository, to the extent that the repository contributors own the
+necessary rights, are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You are free to share and adapt these materials for any purpose, including
+commercial use, provided you give appropriate credit, provide a link to the
+license, and indicate whether changes were made. You must not suggest that
+the licensor endorses you or your use.
+
+Full license terms:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+License summary:
+https://creativecommons.org/licenses/by/4.0/
+
+EXCLUSIONS
+- Third-party image datasets, including BSDS500 and USC-SIPI, are not
+  relicensed by this notice and remain subject to their own terms.
+- Third-party software, dependencies, and other externally sourced material
+  retain their respective licenses.
+- Source code is not covered by this notice unless its files explicitly
+  identify CC BY 4.0 as their license. A separate software license is
+  recommended for original source code.
+
+This notice is a summary and scope statement. The full Creative Commons
+legal code linked above governs use of materials licensed under CC BY 4.0.
