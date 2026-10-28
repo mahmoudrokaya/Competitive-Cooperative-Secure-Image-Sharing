@@ -340,11 +340,11 @@ Future work may investigate real-network deployment, larger heterogeneous agent 
 
 **Title:** Competitive–Cooperative Organizational Intelligence for Adaptive Secure Image Sharing over Heterogeneous Multipath Networks
 
-**Authors:** To be added upon publication.
+**Authors:** Mahmoud Rokaya
 
 **Journal:** To be added upon publication.
 
-**DOI:** To be added upon publication.
+**DOI:** 10.5281/zenodo.23745120.
 
 ### Citation
 
