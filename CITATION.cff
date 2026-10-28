@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the archived release using its version-specific DOI and the associated research article when available."
+type: software
+title: "Competitive–Cooperative Organizational Intelligence for Adaptive Secure Image Sharing over Heterogeneous Multipath Networks"
+abstract: >-
+  Research code and experimental materials supporting a competitive–cooperative
+  organizational intelligence framework for adaptive secure image sharing over
+  heterogeneous multipath networks. The framework integrates protected task
+  ownership, competitive allocation, cooperative recovery, and joint adaptive
+  optimization under security and resource constraints.
+keywords:
+  - secure image sharing
+  - competitive-cooperative organizational intelligence
+  - heterogeneous multipath networks
+  - multi-agent coordination
+  - cooperative recovery
+  - adaptive optimization
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2026-10-28
+# REQUIRED BEFORE PUBLICATION: Replace the placeholder below with the
+# actual manuscript authors in publication order. Example:
+# authors:
+#   - family-names: "Surname"
+#     given-names: "Given names"
+authors:
+  - name: "AUTHOR NAMES TO BE CONFIRMED"
+# Once Zenodo assigns a DOI, add the version-specific DOI, for example:
+# doi: "10.5281/zenodo.XXXXXXX"
+# Add repository-code once the exact public GitHub URL has been verified.
